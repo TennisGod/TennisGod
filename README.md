@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi my name is Bryan Sun, you're currently on my Github page specifically for contributions to the Open Core EMR project!
+# 👋 Hi, I'm Bryan Sun
+I'm a passionate healthcare technology developer working on making electronic medical records more accessible through the Open Core EMR project. My mission is to help improve healthcare delivery through better technology solutions.
 
 
 ## 🌐 Socials:
