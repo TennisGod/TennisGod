@@ -1,15 +1,5 @@
-# 👋 Hi, I'm Bryan Sun
-I'm a passionate healthcare technology developer working on making electronic medical records more accessible through the Open Core EMR project. My mission is to help improve healthcare delivery through better technology solutions.
-
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryan@openrcoreemr.com) 
-
-## 🏥 Open Core EMR Contributions
-I focus on creating robust backend solutions and intuitive user interfaces for healthcare providers. My contributions aim to make EMR systems more user-friendly and efficient.
-
-## 💭 Why EMR Systems?
-I believe healthcare technology should be both powerful and accessible. Open source solutions like Open Core EMR help level the playing field for healthcare providers of all sizes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryshuai@gmail.com) 
 
 # 💻 Tech Stack
 ## Frontend
