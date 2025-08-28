@@ -10,7 +10,6 @@ Software Engineer with a passion for healthcare technology and full-stack develo
 ## 💼 Professional Experience
 - 🏥 **Software Engineer** at Open Core EMR (Mar 2025 - Present) - Founding engineer architecting scalable healthcare solutions
 - 🏥 **Software Engineer** at Epic (Jul 2023 - Nov 2024) - Healthcare software development and patient systems
-- 🔧 **Software Engineer Intern** at Epic (May 2022 - Aug 2022)
 - 💻 **Software Engineer Intern** at TSMC (Jun 2021 - Sep 2021) - Web APIs and automation tools
 
 # 💻 Tech Stack
