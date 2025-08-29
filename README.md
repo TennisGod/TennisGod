@@ -12,6 +12,36 @@ Software Engineer with a passion for healthcare technology and full-stack develo
 - 🏥 **Software Engineer** at Epic (Jul 2023 - Nov 2024) - Healthcare software development and patient systems
 - 💻 **Software Engineer Intern** at TSMC (Jun 2021 - Sep 2021) - Web APIs and automation tools
 
+## 🚀 Featured Projects
+
+### [vibEmail - AI-Powered Voice-First Email Management](https://github.com/TennisGod/vibEmail)
+[![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)]() [![AI](https://img.shields.io/badge/AI%2FML-OpenAI-success?style=flat)]() [![SwiftUI](https://img.shields.io/badge/SwiftUI-4.0+-blue?style=flat)]()
+
+> **"Vibe coding, but for emails"** - Revolutionary iOS email client with voice-first interaction and AI intelligence
+
+**🎯 Key Innovations:**
+- 🎤 **Voice-First Design**: Hands-free email composition perfect for driving and multitasking
+- 🤖 **AI Tone Selection**: 10+ intelligent tone options (Professional, Casual, Urgent, Humorous, etc.)
+- 📱 **Audio Playback**: Listen to emails with speed controls while doing other tasks
+- 🧠 **Conversational AI Filtering**: "Chat with AI to create filters" - natural language email organization
+- 👥 **Multi-Account Gmail Integration**: Seamless switching with optimistic UI updates
+
+**🏗 Technical Highlights:**
+- Modern **SwiftUI + Combine** architecture with async/await concurrency
+- Advanced **voice recognition** and **speech-to-text** integration  
+- **OpenAI API** integration with graceful fallbacks for AI features
+- Sophisticated **multi-layer caching** with background synchronization
+- **Production-ready** error handling and security practices
+
+**🎯 Real-World Impact:**
+- **Safety-focused**: Never take hands off the wheel while managing emails
+- **Accessibility-first**: Universal design benefiting users with diverse needs  
+- **Productivity-enhancing**: AI handles mundane tasks, users focus on communication
+
+**[🔗 View Repository](https://github.com/TennisGod/vibEmail)** | **[📖 Documentation](https://github.com/TennisGod/vibEmail#readme)**
+
+---
+
 # 💻 Tech Stack
 
 ## Languages
