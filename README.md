@@ -5,7 +5,7 @@ Software Engineer with a passion for healthcare technology and full-stack develo
 *Fun fact: Despite the username "TennisGod," I'm actually pretty terrible, sorry. 🎾*
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brya) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsiaochengsun@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bryanopenemr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brya) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsiaochengsun@gmail.com)
 
 ## 💼 Professional Experience
 - 🏥 **Software Engineer** at Open Core EMR (Mar 2025 - Present) - Founding engineer architecting scalable healthcare solutions
